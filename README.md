@@ -32,12 +32,17 @@ This repository currently contains the core implementation of the proposed metho
 * `utils.py`: Utility functions.
 * `data_loader.py`: Data loading and preprocessing logic for cross-sensor datasets.
 
-## 🔗 Related Datasets
+## 🔗 Related Datasets and Supporting Algorithms
 
 The datasets used in this work are publicly available from the following sources:
 
 * **Dataset #2 & Dataset #4**: Download from Professor Max Mignotte's webpage: http://www-labs.iro.umontreal.ca/~mignotte/
 * **Dataset #3**: Download from Dr. Han's GitHub repository: https://github.com/rshante0426/MCD-datasets
+
+The following repositories are related to the graph-based structural consistency and change alignment mechanisms:
+
+* **SCASC**: https://github.com/yulisun/SCASC
+* **SRF**: https://github.com/yulisun/SRF
 
 ## 📝 Note
 
