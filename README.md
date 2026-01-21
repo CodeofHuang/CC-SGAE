@@ -44,10 +44,6 @@ The following repositories are related to the graph-based structural consistency
 * **SCASC**: https://github.com/yulisun/SCASC
 * **SRF**: https://github.com/yulisun/SRF
 
-## 📝 Note
-
-Currently, the core network modules and utility functions are provided here for inspection. The full demonstration script (`CCSGAE_demo.py`), including the complete training pipeline and parameter configurations, will be released immediately after the review process is complete.
-
 ## 📧 Contact
 
 If you have any queries, please do not hesitate to contact us at: dearhyk@126.com
