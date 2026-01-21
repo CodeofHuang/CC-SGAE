@@ -2,8 +2,6 @@
 
 **Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection.**
 
-This work is currently under review.
-
 ## 📋 Environment Requirements
 
 The code has been tested in the following environment. We recommend using these specific versions for reproducibility:
@@ -39,7 +37,7 @@ The datasets used in this work are publicly available from the following sources
 * **Dataset #2 & Dataset #4**: Download from Professor Max Mignotte's webpage: http://www-labs.iro.umontreal.ca/~mignotte/
 * **Dataset #3**: Download from Dr. Han's GitHub repository: https://github.com/rshante0426/MCD-datasets
 
-The following repositories are related to the graph-based structural consistency and change alignment mechanisms:
+The following repositories are related to the graph-based structural consistency and change alignment mechanisms. Great thanks to the authors for their excellent works:
 
 * **SCASC**: https://github.com/yulisun/SCASC
 * **SRF**: https://github.com/yulisun/SRF
