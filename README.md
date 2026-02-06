@@ -2,7 +2,7 @@
 
 The implementation of IEEE TAES 2026 paper "[Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection](https://ieeexplore.ieee.org/abstract/document/11362925)"
 
-## 📋 Environment Requirements
+## Environment Requirements
 
 The code has been tested in the following environment. We recommend using these specific versions for reproducibility:
 
@@ -22,7 +22,7 @@ pip install numpy scikit-learn scikit-image opencv-python imageio scipy torch_ge
 # Note: Please ensure PyTorch is installed according to your CUDA version.
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 This repository currently contains the core implementation of the proposed method:
 
@@ -30,7 +30,7 @@ This repository currently contains the core implementation of the proposed metho
 * `utils.py`: Utility functions.
 * `data_loader.py`: Data loading and preprocessing logic for cross-sensor datasets.
 
-## 🔗 Related Datasets and Supporting Algorithms
+## Related Datasets and Supporting Algorithms
 
 The datasets used in this work are publicly available from the following sources:
 
@@ -59,6 +59,6 @@ If this code contributes to your research, please cite:
 ## Acknowledgement
 The Python code draws in part on the Matlab code of [AOSG](https://github.com/rshante0426/AOSG) and [SCASC](https://github.com/yulisun/SCASC). Many thanks for these excellent works! 
 
-## 📧 Contact
+## Contact
 
 If you have any queries, please do not hesitate to contact us at: dearhyk@126.com
