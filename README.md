@@ -37,10 +37,27 @@ The datasets used in this work are publicly available from the following sources
 * **Dataset #2 & Dataset #4**: Download from Professor Max Mignotte's webpage: http://www-labs.iro.umontreal.ca/~mignotte/
 * **Dataset #3**: Download from Dr. Han's GitHub repository: https://github.com/rshante0426/MCD-datasets
 
-The following repositories are related to the graph-based structural consistency and change alignment mechanisms. Great thanks to the authors for their excellent works:
+The following repositories are related to the graph-based structural consistency and change alignment mechanisms. If you use these resources, please cite their relevant papers:
 
 * **SCASC**: https://github.com/yulisun/SCASC
 * **SRF**: https://github.com/yulisun/SRF
+
+## Citation
+If this code contributes to your research, please cite:
+```bibtex
+@ARTICLE{ccsgae26taes,
+  author={Huang, Yankun and Zhang, Yun and Li, Yaohua and Yuan, Haoxuan},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-17},
+  doi={10.1109/TAES.2026.3657315}}
+```
+
+## Acknowledgement
+The Python code draws in part on the Matlab code of [AOSG](https://github.com/rshante0426/AOSG) and [SCASC](https://github.com/yulisun/SCASC). Many thanks for these excellent works! 
 
 ## 📧 Contact
 
