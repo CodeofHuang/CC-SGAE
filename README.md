@@ -50,9 +50,10 @@ If this code contributes to your research, please cite:
   journal={IEEE Transactions on Aerospace and Electronic Systems}, 
   title={Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection}, 
   year={2026},
-  volume={},
+  volume={62},
   number={},
-  pages={1-17},
+  pages={5270-5286},
+  keywords={Autoencoders;Adaptation models;Semantics;Feature extraction;Aerospace and electronic systems;Accuracy;Remote sensing;Optimization;Image transformation;Image reconstruction;Cross-sensor change detection (CSCD);cycle-consistency;graph autoencoder;unsupervised learning},
   doi={10.1109/TAES.2026.3657315}}
 ```
 
