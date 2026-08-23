@@ -1,6 +1,6 @@
 # CC-SGAE
 
-The implementation of IEEE TAES 2026 paper "[Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection](https://ieeexplore.ieee.org/abstract/document/11362925)"
+The implementation of IEEE TAES paper "[Cross-Cycle Structured Graph Autoencoder for Unsupervised Cross-Sensor Image Change Detection](https://ieeexplore.ieee.org/abstract/document/11362925)"
 
 ## Environment Requirements
 
